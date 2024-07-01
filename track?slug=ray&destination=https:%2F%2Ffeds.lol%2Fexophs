@@ -25,7 +25,7 @@
 			<script>
 				{
 					__sveltekit_9tcv7b = {
-						base: new URL("https://feds.lol/exophs", location).pathname.slice(0, -1),
+						base: new URL(".", location).pathname.slice(0, -1),
 						env: {}
 					};
 
