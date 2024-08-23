@@ -9436,11 +9436,11 @@ function Lc(l, e, n) {
         },
         U = H => x(H.address),
         N = H => {
-            window.open(`${H.url}`)
+            window.open(`${H.address}`)
         },
         Z = H => x(H.address),
         te = H => {
-            window.open(`{H.url}`)
+            window.open(`{H.address}`)
         };
     return l.$$set = H => {
         "data" in H && n(0, i = H.data)
