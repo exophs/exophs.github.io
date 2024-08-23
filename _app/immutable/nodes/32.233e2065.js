@@ -4896,7 +4896,7 @@ function yn(l) {
     let e, n, t, i, s, r, o, a, c, h, u, f;
     return {
         c() {
-            e = w("div"), n = w("div"), t = w("div"), i = D(), s = w("div"), r = w("p"), o = J("welcome to wanted.lol"), a = D(), c = w("p"), h = J("loading profile..."), this.h()
+            e = w("div"), n = w("div"), t = w("div"), i = D(), s = w("div"), r = w("p"), o = J("welcome to exophs.github.io"), a = D(), c = w("p"), h = J("loading profile..."), this.h()
         },
         l(p) {
             e = $(p, "DIV", {
@@ -4918,7 +4918,7 @@ function yn(l) {
                 class: !0
             });
             var I = A(r);
-            o = X(I, "welcome to wanted.lol"), I.forEach(d), a = T(y), c = $(y, "P", {
+            o = X(I, "welcome to exophs.github.io"), I.forEach(d), a = T(y), c = $(y, "P", {
                 class: !0
             });
             var Q = A(c);
@@ -9258,7 +9258,7 @@ function Dc(l) {
             be && be.l(Ce), ee = T(Ce), we && we.l(Ce), x = T(Ce), ke && ke.l(Ce), C = T(Ce), $e && $e.l(Ce), U = T(Ce), Ee && Ee.l(Ce), Z = T(Ce), ye && ye.l(Ce), H = T(Ce), Se && Se.l(Ce), de = T(Ce), B.l(Ce), Ce.forEach(d), xe = T(M), Re && Re.l(M), oe = re(), this.h()
         },
         h() {
-            g(e, "property", "og:title"), g(e, "content", n = "/" + l[5].slug), g(t, "property", "og:description"), g(t, "content", "@ wanted.lol"), g(i, "property", "og:image"), g(i, "content", s = l[5].avatar), g(r, "property", "og:url"), g(r, "content", o = "https://wanted.lol/" + l[5].slug), g(a, "property", "theme-color"), g(a, "content", "#2b2d31"), g(I, "class", "h-screen w-screen min-h-[100dvh] min-w-[100dvw] max-h-[100dvh] max-w-[100dvw] flex flex-col " + (l[9] === 1 ? "justify-center" : "") + " items-center"), g(I, "id", "main"), Y(I, "background-image", "url(" + l[5].background + ")"), Y(I, "background-size", "cover"), Y(I, "background-position", "center"), Y(I, "object-fit", "cover"), Y(I, "cursor", "url('" + l[5].cursor + "'), auto", 1)
+            g(e, "property", "og:title"), g(e, "content", n = "/" + l[5].slug), g(t, "property", "og:description"), g(t, "content", "@ exophs"), g(i, "property", "og:image"), g(i, "content", s = l[5].avatar), g(r, "property", "og:url"), g(r, "content", o = "https://wanted.lol/" + l[5].slug), g(a, "property", "theme-color"), g(a, "content", "#2b2d31"), g(I, "class", "h-screen w-screen min-h-[100dvh] min-w-[100dvw] max-h-[100dvh] max-w-[100dvw] flex flex-col " + (l[9] === 1 ? "justify-center" : "") + " items-center"), g(I, "id", "main"), Y(I, "background-image", "url(" + l[5].background + ")"), Y(I, "background-size", "cover"), Y(I, "background-position", "center"), Y(I, "object-fit", "cover"), Y(I, "cursor", "url('" + l[5].cursor + "'), auto", 1)
         },
         m(M, K) {
             b(We.head, e), b(We.head, t), b(We.head, i), b(We.head, r), b(We.head, a), k(M, h, K), G && G.m(M, K), k(M, u, K), ae && ae.m(M, K), k(M, p, K), pe && pe.m(M, K), k(M, v, K), he && he.m(M, K), k(M, y, K), k(M, I, K), be && be.m(I, null), b(I, ee), we && we.m(I, null), b(I, x), ke && ke.m(I, null), b(I, C), $e && $e.m(I, null), b(I, U), Ee && Ee.m(I, null), b(I, Z), ye && ye.m(I, null), b(I, H), Se && Se.m(I, null), b(I, de), It[W].m(I, null), k(M, xe, K), Re && Re.m(M, K), k(M, oe, K), P = !0
